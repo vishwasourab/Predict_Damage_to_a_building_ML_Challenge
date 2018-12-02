@@ -5,7 +5,7 @@ Determining the degree of damage that is done to buildings post an earthquake ca
 In this challenge we are provided with the before and after details of nearly one million buildings after an earthquake. The damage to a building is categorized in __five grades__. Each grade depicts the extent of damage done to a building post an earthquake.
 
 ## Goal of the Project:
-our task is to build a model that can predict the extent of damage that has been done to a building after an earthquake.
+our task is to __build a model that can predict the extent of damage that has been done to a building after an earthquake.__
 
 ## Author:
 - [Brungi Vishwa Sourab](https://brungivishwasourab.com)
